@@ -1,4 +1,4 @@
-![Banner](./assests/image.png)
+![Banner](./image.png)
 
 # Hey there 👋 I'm Aman Kheria
 
